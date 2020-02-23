@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/deployed_goodpaw/static/css/main.34fd7d9a.chunk.css",
+    "main.js": "/deployed_goodpaw/static/js/main.ff8d8962.chunk.js",
+    "main.js.map": "/deployed_goodpaw/static/js/main.ff8d8962.chunk.js.map",
+    "runtime-main.js": "/deployed_goodpaw/static/js/runtime-main.29b718ae.js",
+    "runtime-main.js.map": "/deployed_goodpaw/static/js/runtime-main.29b718ae.js.map",
+    "static/css/2.0996cbbd.chunk.css": "/deployed_goodpaw/static/css/2.0996cbbd.chunk.css",
+    "static/js/2.5f3255de.chunk.js": "/deployed_goodpaw/static/js/2.5f3255de.chunk.js",
+    "static/js/2.5f3255de.chunk.js.map": "/deployed_goodpaw/static/js/2.5f3255de.chunk.js.map",
+    "index.html": "/deployed_goodpaw/index.html",
+    "precache-manifest.7ee7ad0286ab1f9c5c7bed2a59e17bc8.js": "/deployed_goodpaw/precache-manifest.7ee7ad0286ab1f9c5c7bed2a59e17bc8.js",
+    "service-worker.js": "/deployed_goodpaw/service-worker.js",
+    "static/css/2.0996cbbd.chunk.css.map": "/deployed_goodpaw/static/css/2.0996cbbd.chunk.css.map",
+    "static/css/main.34fd7d9a.chunk.css.map": "/deployed_goodpaw/static/css/main.34fd7d9a.chunk.css.map",
+    "static/js/2.5f3255de.chunk.js.LICENSE.txt": "/deployed_goodpaw/static/js/2.5f3255de.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.29b718ae.js",
+    "static/css/2.0996cbbd.chunk.css",
+    "static/js/2.5f3255de.chunk.js",
+    "static/css/main.34fd7d9a.chunk.css",
+    "static/js/main.ff8d8962.chunk.js"
+  ]
+}
